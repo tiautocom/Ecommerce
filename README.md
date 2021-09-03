@@ -1,6 +1,6 @@
-# NLW Together 
+# ECOMMERCE
 
-## Trilha (NODEJS)
+## API (NODEJS)
 
 <p align="center">
   <img alt="License" src="https://github.com/adreider/NLW-6-NODEJS/blob/main/.github/preview.png?raw=true">
@@ -13,22 +13,7 @@
   [ ] Não é permitido cadastrar mais um usuário com o mesmo e-mail
 
   [ ] Não é permitido cadastrar usuário sem e-mail
-
-- Cadastro de TAG
-
-  [ ] Não é permitido cadastrar mais de uma TAG com o mesmo nome
-
-  [ ] Não é permitido cadastrar TAG sem nome 
-
-  [ ] Não é permitido cadastro de usuários que não sejam administradores
-
-- Cadastro de elogios
-
-  [ ] Não é permitido um usuário cadastrar elogio para si
-
-  [ ] Não é permitido cadastrar elogio para usuário inválidos
-
-  [ ] O usuário precisa estar autenticado na aplicação
+  
 
 ## INIT PROJECT
 
